@@ -9,4 +9,5 @@ export default defineConfig({
     environment: "jsdom",
     setupFiles: "./tests/setup"
   },
+  base: '/react-todo-app-2'
 })
